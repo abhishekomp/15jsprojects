@@ -87,6 +87,14 @@ const menu = [
     img: "./images/Bhel-Poori.jpg",
     desc: `phochka masale daar kha lo. Sukhi papdi free me. Roj shaam chowk pe pipal ke per ke niche.`,
   },
+  {
+    id: 11,
+    title: "Oreo dessert",
+    category: "dessert",
+    price: 12.99,
+    img: "./images/No-Bake-Oreo-Cheesecake-Recipe-Photo.jpg",
+    desc: `Majedaar thanda thanda oreo ice-cream kha lo babu`,
+  },
 ];
 
 // Once we have got the data from an api or from a database then we need to show the data on the web page.
